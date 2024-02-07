@@ -6,7 +6,7 @@
 4) Cluster sampling
 5) Bootstap sampling
 
-## 5 ML used :
+## 5 ML models used :
 1) Logistic Regression
 2) KNN
 3) Random Forest 
